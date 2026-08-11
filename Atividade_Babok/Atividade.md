@@ -148,3 +148,15 @@ Dessa forma, a solução contribui não apenas para resolver os problemas atuais
 A proposta apresenta uma solução integrada para os principais problemas identificados na startup, utilizando conceitos de **Análise de Negócios e Engenharia de Requisitos** para transformar as necessidades dos stakeholders em requisitos de solução.
 
 A primeira versão (**V1**) prioriza as funcionalidades essenciais para comunicação, registro e acompanhamento dos projetos, enquanto funcionalidades adicionais poderão ser incorporadas posteriormente conforme as necessidades da organização.
+
+## Referencias
+* Babok
+* IA do canva para interface
+* GPT e CLAUDE para estruturação e formatação
+
+## integrantes
+* Carlos Eduardo
+* Leandro Gonçalves
+* Theo Guimarães
+* Vitor Emanoel
+*
