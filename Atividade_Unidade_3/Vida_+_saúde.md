@@ -15,7 +15,7 @@ A Clínica Vida + Saúde é uma clínica médica de médio porte que atende dive
 
 ---
 
-## Problemas e Regras de Negócio
+## Regras de Negócio
 
 A Vida + Saúde possui regras de negócio bem estabelecidas. É possível dividir essas regras em diferentes setores.
 
