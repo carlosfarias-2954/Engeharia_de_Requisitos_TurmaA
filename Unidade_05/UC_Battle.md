@@ -51,3 +51,5 @@ As funcionalidades que contribuem para a acessibilidade incluem:
 - **Modo de treino sem penalidade**, permitindo prática livre de erros;
 - **Progressão gradual de dificuldade** entre os vilões;
 - **Uso de cores combinado com texto**, evitando depender somente da cor para transmitir informações.
+
+---
