@@ -1,3 +1,6 @@
+# Equipe
+[Carlos Eduardo](https://github.com/carlosfarias-2954/Engeharia_de_Requisitos_TurmaA/edit/main/Atividade_Unidade_3/Vida_%2B_sa%C3%BAde.md)
+
 # Clínica Vida + Saúde
 
 ## Stakeholders
