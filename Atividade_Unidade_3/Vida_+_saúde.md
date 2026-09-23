@@ -7,7 +7,7 @@
 
 Vitor Emanoel
 
-Leandro Gonçalves
+[Leandro Gonçalves](https://github.com/leoS1lva-02)
 # Clínica Vida + Saúde
 
 ## Stakeholders
