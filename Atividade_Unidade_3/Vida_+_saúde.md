@@ -1,9 +1,13 @@
 # Equipe
-[Carlos Eduardo](https://github.com/carlosfarias-2954/Engeharia_de_Requisitos_TurmaA/edit/main/Atividade_Unidade_3/Vida_%2B_sa%C3%BAde.md)
+[Carlos Eduardo](https://github.com/carlosfarias-2954/Engeharia_de_Requisitos_TurmaA)
 
 [Theo Guimarães](https://github.com/theojgs08-star?tab=repositories)
 
 [Edgar Júnio](https://github.com/carlosfarias-2954/Engeharia_de_Requisitos_TurmaA/edit/main/Atividade_Unidade_3/Vida_%2B_sa%C3%BAde.md)
+
+Vitor Emanoel
+
+Leandro Gonçalves
 # Clínica Vida + Saúde
 
 ## Stakeholders
