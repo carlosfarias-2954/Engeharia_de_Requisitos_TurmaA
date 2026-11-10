@@ -1,7 +1,7 @@
 [Atividade_UML_parte2.md](https://github.com/user-attachments/files/32532898/Atividade_UML_parte2.md)
 # U.C. Battle — Perguntas e Respostas
 
-## 1 – Qual é o objetivo principal do U.C. Battle?   
+## 1 – Qual é o objetivo principal do U.C. Battle?
 
 O **U.C. Battle** é um jogo educacional acessível, desenvolvido para apoiar o processo de ensino e aprendizagem de **UML**.
 
@@ -11,7 +11,7 @@ Além do combate, o jogo oferece um **modo de treino** e uma seção de estudo c
 
 ---
 
-## 2 – Quem interage diretamente com o sistema?    
+## 2 – Quem interage diretamente com o sistema?
 
 Apenas um ator interage diretamente com o sistema: o **Jogador**.
 
@@ -19,7 +19,7 @@ Apenas um ator interage diretamente com o sistema: o **Jogador**.
 
 ---
 
-## 3 – Quais funcionalidades são oferecidas ao jogador?   
+## 3 – Quais funcionalidades são oferecidas ao jogador?
 
 O jogador pode:
 
