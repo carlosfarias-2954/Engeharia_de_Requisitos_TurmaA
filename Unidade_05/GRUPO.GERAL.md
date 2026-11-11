@@ -11,7 +11,7 @@ O projeto busca combater o desperdício de alimentos próprios para consumo, fac
 ## Integrantes do Grupo
 
 Projeto desenvolvido por estudantes de Engenharia de Software do CEUB:
-
+ 
 - **Vitor Emanoel**
 - **Carlos Eduardo**
 - **Edgar Junio**
